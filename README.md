@@ -49,3 +49,4 @@
 * Do **migration**
 
 `rails db:migrate`
+
