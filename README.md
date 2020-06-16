@@ -1,5 +1,7 @@
 # README
 
+### Rails (scaffolding)
+
 **To create a new app in rails:**
 `rails new appname`
 
@@ -8,6 +10,12 @@
 
 **To create a controller in rails:**
 `rails generate controller welcome index`
+
+**To check all routes:**
+`rails routes`
+
+**To check specific routes:**
+`rails routes | grep users`
 
 ### Devise (authentication gem)
 
