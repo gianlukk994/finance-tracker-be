@@ -11,6 +11,9 @@
 **To create a controller in rails:**
 `rails generate controller welcome index`
 
+**To create a model in rails:**
+`rails generate model Stock ticker:string name: string last_price:string`
+
 **To check all routes:**
 `rails routes`
 
