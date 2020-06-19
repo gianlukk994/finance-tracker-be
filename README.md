@@ -20,6 +20,11 @@
 **To check specific routes:**
 `rails routes | grep users`
 
+**To edit environment credentials:**
+`EDITOR='code --wait' rails credentials:edit`
+
+
+
 ### Devise (authentication gem)
 
 * Add the gem to the **Gemfile**
