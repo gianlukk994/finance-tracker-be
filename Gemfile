@@ -23,7 +23,8 @@ gem 'jbuilder', '~> 2.7'
 gem 'devise'
 # gem bootstrap to style view with style 
 gem 'devise-bootstrap-views', '~> 1.0'
-
+# gem iex to get financial data
+gem 'iex-ruby-client'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
