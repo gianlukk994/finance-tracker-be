@@ -14,6 +14,10 @@
 **To create a model in rails:**
 `rails generate model Stock ticker:string name: string last_price:string`
 
+**To create a resource (model/controller) and made a many to many association in rails**
+`rails g resource UserStock user:references stock:references`
+
+
 **To check all routes:**
 `rails routes`
 
